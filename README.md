@@ -1,5 +1,5 @@
 # Capstone_MLflow_Databricks
 
-![1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcprosenjit.medium.com%2Fmlflow-azure-databricks-7e7e666b7327&psig=AOvVaw3JSy5KHWP01--EHXweijXi&ust=1726177750976000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqr7Hvu4gDFQAAAAAdAAAAABAE)
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*OVqzvRSNWloHMYCF1EZtqg.png">
 
 
